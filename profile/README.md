@@ -1,5 +1,6 @@
 <h3 align="center">
-  <a href="https://crustil.io">Crustil.io</a>
+  <a href="https://crustil.io"><img src="https://raw.githubusercontent.com/crustil/crustil-press/main/svg/logo_full.svg" height="200px">
+  <br /><br />Crustil.io</a>
 </h3>
 
 <p align="center">
